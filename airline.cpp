@@ -1,11 +1,3 @@
-// OOP Mini Project Grp 6 (Panel E) 
-// Topic : Airline Reservation System
-// Project by - 
-// Shubhang Somani (12)
-// Govinda Talreja (18)
-// Piyush Sonawane (24)
-// Aradhya Tagalpallewar (40)
-
 #include <iostream>
 #include<fstream>
 #include<string.h>
